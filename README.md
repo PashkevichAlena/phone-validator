@@ -6,7 +6,7 @@ INSTALLATION
 ------------
 
 Please clone project in folder on your computer.
-You can do it from the repository https://github.com/PashkevichAlena/phone-validator/tree/main.
+You can do it from the repository https://github.com/PashkevichAlena/phone-validator.
 
 QUICK START
 -----------
